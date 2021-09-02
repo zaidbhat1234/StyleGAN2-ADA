@@ -13,7 +13,9 @@ Codes for Learned Perceptual Image Patch Similarity, LPIPS came from https://git
 The code for the backbone architecture based on StyleGAN2 was taken from https://github.com/rosinality/stylegan2-pytorch
 
 ## Pre-trained Model
-If you need the pre-trained SG2-ADA model used as a backbone in the experiments, please contact me.
+
+The pre-trained weights file used for all experiments can be found here: [Google Drive](https://drive.google.com/file/d/1mG27qCxJd1hp7uGpCScNgaw8U-iO2nSg/view?usp=sharing)
+If you need any additional information, please feel free to contact me.
 
 ## Experimental Results
 
